@@ -25,12 +25,13 @@ SECRET_KEY = 'django-insecure-w#t%4pc6r$i1a8e5e#8g=yfvfvq7i3+_rl1^)%*_nb^vreb_fh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["malconverter.onrender.com"]
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'core',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
