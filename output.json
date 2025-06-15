@@ -1,0 +1,473 @@
+[
+  {
+    "info": {
+      "train_no": "27",
+      "date": "1/11/2024",
+      "frequency": "Monthly"
+    }
+  },
+  {
+    "train_start_up_test_monthly": [
+      {
+        "odometer": "260010.50",
+        "train_start_up_checks": {
+          "all_tractions_available": {
+            "eca1_1": "true",
+            "eca1_2": "null",
+            "ica2_1": "true",
+            "ica2_2": "true",
+            "ica3_1": "false",
+            "ica3_2": "false",
+            "eca4_1": "null",
+            "eca4_2": "true"
+          },
+          "ETCS Signaling Systems available": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "EB/SB/HB and PB status shown functional normal on HMI": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Check all temperature alarms normal at HMI": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Door open/close status shown normal": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          }
+        },
+        "Main Air Compressor": {
+          "Selected Active (V)": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          }
+        },
+        "Load Tyre Pressure (bar) per bogie facing eca1 (1,2,3,4,5,6,7 and 8)": {
+          "Bogie_1": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Bogie_2": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          }
+        },
+        "Passenger Door functionality check; open and close the doors from the driver's cabin on both sides from both cabs": {
+          "Passenger Door 1": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Passenger Door 2": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Passenger Door 3": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Passenger Door 4": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          }
+        },
+        "Traction System": {
+          "Coolant Level": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Traction Inverter Bogie 1 Health Status": {
+            "eca1": "null",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Traction Inverter Bogie 2 Health Status": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "null"
+          }
+        },
+        "Apron door status (V)": {
+          "Apron Door 1": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Apron Door 2": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Apron Door 3": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Apron Door 4": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Apron Door 5": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Apron Door 6": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          }
+        },
+        "Brakes & Pneumatic": {
+          "Self-test - ensure correct operation of SB, EB and WSP": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Brakes control - Test the EB": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          }
+        },
+        "Cab": {
+          "Check CCTV, PIS and PID": {
+            "eca1": "true",
+            "ica2": "true",
+            "ica3": "true",
+            "eca4": "true"
+          },
+          "Check fire extinguisher alarm status at HMI": {
+            "eca1_1": "true",
+            "eca1_2": "true",
+            "ica2_1": "true",
+            "ica2_2": "true",
+            "ica3_1": "true",
+            "ica3_2": "true",
+            "eca4_1": "true",
+            "eca4_2": "true"
+          },
+          "Check PA system": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Check wiper operation including the wiper washer": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Check first aid box": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Operate headlight & tail light": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Check driver console condition": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Check condition of components at driver's cab": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Check seat condition": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Check magnetic door functionality": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Demister functionality": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Reading Light": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          },
+          "Cabin Light": {
+            "eca1": "true",
+            "ica2": "null",
+            "ica3": "null",
+            "eca4": "true"
+          }
+        },
+        "Saloon": {
+          "Check interior lighting functioning including the advert light": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "null",
+            "ECA4": "true"
+          },
+          "Check VAC functionality": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Operate passenger Door open/close and ensure all doors are function normal": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Check door and window glass and rubber seal for cracks and damages": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Inspect door emergency egress handle intact and in correct position": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Check ventilation windows in close and unlock position": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Check all windows glass & seal for cracks and damages (Ensure glass surface clean)": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Functional check the disable seat belts": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Check thread plate for any abnormalities (gangway) and any abnormal condition & hazardous.": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Check the help point operation": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          }
+        },
+        "Exterior": {
+          "Check apron door locked and secured and ensure no alarm at HMI (when train stabling in depot)": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          },
+          "Check headlight & tail light for crack & damages": {
+            "ECA1": "true",
+            "ICA2": "null",
+            "ICA3": "null",
+            "ECA4": "true"
+          },
+          "Amber light indicator status": {
+            "ECA1": "true",
+            "ICA2": "true",
+            "ICA3": "true",
+            "ECA4": "true"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "current_collector_and_earth_brush_dimensions": {
+      "location": "Brickfields Depot",
+      "current_collector_shoe_thickness": {
+        "CA": "8",
+        "CB": "11",
+        "CC": "6",
+        "CD": "11",
+        "CE": "10",
+        "CF": "N/A"
+      },
+      "earth_shoe_minimum_thickness": {
+        "E1": "N/A",
+        "E2": "13",
+        "E3": "N/A",
+        "E4": "N/A"
+      },
+      "technician_checked": {
+        "technician": "21179",
+        "technician_date": "1/11/2024"
+      },
+      "supervisor_checked": {
+        "supervisor": "8196",
+        "supervisor_date": "1/11/2024"
+      }
+    }
+  },
+  {
+    "airbag_pressure_and_height_check_sheet": [
+      {
+        "eca1": {
+          "bogie1": {
+            "serial_number": "207",
+            "pressure": {
+              "before": "4.8",
+              "after": "4.8"
+            },
+            "height": {
+              "before": "244",
+              "after": "244"
+            }
+          },
+          "bogie2": {
+            "serial_number": "208",
+            "pressure": {
+              "before": "4.7",
+              "after": "4.7"
+            },
+            "height": {
+              "before": "244",
+              "after": "244"
+            }
+          }
+        }
+      },
+      {
+        "ica2": {
+          "bogie3": {
+            "serial_number": "229",
+            "pressure": {
+              "before": "4.8",
+              "after": "4.8"
+            },
+            "height": {
+              "before": "244",
+              "after": "244"
+            }
+          },
+          "bogie4": {
+            "serial_number": "299",
+            "pressure": {
+              "before": "4.7",
+              "after": "4.7"
+            },
+            "height": {
+              "before": "245",
+              "after": "245"
+            }
+          }
+        }
+      },
+      {
+        "ica3": {
+          "bogie5": {
+            "serial_number": "223",
+            "pressure": {
+              "before": "4.8",
+              "after": "4.8"
+            },
+            "height": {
+              "before": "244",
+              "after": "244"
+            }
+          },
+          "bogie6": {
+            "serial_number": "278",
+            "pressure": {
+              "before": "4.7",
+              "after": "4.7"
+            },
+            "height": {
+              "before": "245",
+              "after": "245"
+            }
+          }
+        }
+      },
+      {
+        "eca4": {
+          "bogie7": {
+            "serial_number": "260",
+            "pressure": {
+              "before": "4.8",
+              "after": "4.8"
+            },
+            "height": {
+              "before": "244",
+              "after": "244"
+            }
+          },
+          "bogie8": {
+            "serial_number": "251",
+            "pressure": {
+              "before": "4.7",
+              "after": "4.7"
+            },
+            "height": {
+              "before": "245",
+              "after": "245"
+            }
+          }
+        }
+      }
+    ]
+  }
+]
